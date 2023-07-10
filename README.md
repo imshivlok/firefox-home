@@ -8,5 +8,6 @@
   <img src="images/logo.png" alt="logo" title="logo" width="50%">
 
  <h2>Firefox Homepage</h2>
-  A custom Mozilla Firefox Homepage with a few bookmarks and a text that reads,<br> "Welcome to Firefox!"<br>Built using pure HTML (No CSS/JS)
+  A custom Mozilla Firefox Homepage with a few bookmarks and a text that reads,<br> "Welcome to Firefox!"<br>Built using pure HTML (No CSS/JS)<br><br>
+<a href="https://imshivlok.github.io/filmybar/" align="center"><strong>➥View Demo</strong></a><br>
 </div>
