@@ -9,7 +9,7 @@
 
  <h2>Firefox Homepage</h2>
   A custom Mozilla Firefox Homepage with a few bookmarks and a text that reads,<br> "Welcome to Firefox!"<br>Built using pure HTML (No CSS/JS)<br><br>
-<a href="https://imshivlok.github.io/filmybar/" align="center"><strong>➥View Demo</strong></a><br>
+<a href="https://imshivlok.github.io/firefox-home/" align="center"><strong>➥View Demo</strong></a><br>
 </div>
 
 <h2>Demo Screenshots</h2>
